@@ -1,0 +1,20 @@
+#linktag{
+    background-color: rgb(102, 192, 102);
+}
+
+.images img{
+    width: 200px;
+    height: 200px;
+
+}
+.images{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background: #000;
+    color: wheat;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 800;
+}
